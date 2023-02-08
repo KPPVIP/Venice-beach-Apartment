@@ -1,0 +1,62 @@
+Venice Beach Apartment  v1.0 [Menyoo][Map Builder]creat by me.
+
+English : 
+The Venice Beach Apartment, is a building consisting of two duplexes, fully equipped with:
+Living room, kitchen, bedrooms, bathroom, office, jacuzzi, terraces and roof that can accommodate a helicopter, 
+and outside a secure garage with door for four vehicles.
+
+Français:
+Le Venice Beach Appartement, est un immeuble composé de deux duplexs, totalement équipés avec:
+Salon, cuisine, chambres, salle de bain, bureau, jacuzzi, terrasses et le toit pouvant accueillir un hélicoptère, 
+et a l'extérieur un garage sécurisé avec porte pour quatre véhicules.
+
+Installation:
+PLEASE READ IT CAREFULLY !
+If you don't have mods folder, just create it and put the original common.rpf locate in GTA5 main folder in your mods folder
+
+Download and install:
+ScriptHook, 
+ScriptHook V.NET 
+and OpenIV 
+and MENYOO	
+and Map Builder 4.0 (https://fr.gta5-mods.com/tools/map-builder) for some walls and grounds.
+
+HOW TO INSTAL: 
+
+1] Replace art wall and rug wool 
+Go to: https://fr.gta5-mods.com/paintjobs/paints-and-rug-wool-replace
+
+A] ADDON [ymap file]
+Installation for instal (OPEN IV needed for this)
+
+copy and paste folder "custom_maps" 
+to: mods>update>x64>dlcpacks
+
+Finally add "<Item>dlcpacks:\custom_maps\</Item>" in dlclist.xml using OpenIV 
+to: mods update.rpf common data
+
+Or, 
+when you already have your custom maps folder then go to:
+mods>update>x64>dlcpacks>custom maps>dlc.rpf>x64>levels>gta5>citye>maps>custom maps.rpf
+and add the file : 
+
+venice beach apartment.ymap
+
+[Addon] (don t rename the file. OpenIV will do the rest)
+Just need to go to the north of the map, for few days of holiday with your friends :) 
+
+B] MENYOO [xml file] 
+
+Copy: 
+venice beach apartment.xml
+
+of my archive to GTAV menyooStuff Spooner.
+Now launch in GTA5, press F8 to open Menyoo, select "ObjectSpooner", "SavedFiles", 
+and load:
+
+venice beach apartment.xml
+
+(You will be teleported in front the entrance ) :)
+
+
+
